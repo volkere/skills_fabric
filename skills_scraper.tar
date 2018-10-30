@@ -1,1 +1,3 @@
 
+# skills_scaraper.tar has a compressed version of the docker volume skills/testimage with the container scrapinghub/portia
+# To import the docker volume: docker load -i <path to image tar file>
